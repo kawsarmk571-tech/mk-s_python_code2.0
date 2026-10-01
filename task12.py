@@ -1,0 +1,7 @@
+n=int(input("enter your value :"))
+total = 0
+for i in range (1,n+1):
+    total+= i
+print(f"the sum from 1 to {n} is : {total}")
+
+                
